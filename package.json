@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:jakekelly44/tech-blog.git"
+        "url": ""
     },
     "author": "Jake Kelly",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/jakekelly44/tech-blog/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/jakekelly44/tech-blog#readme",
+    "homepage": "",
     "dependencies": {
         "bcrypt": "^5.0.0",
         "connect-session-sequelize": "^6.1.1",
